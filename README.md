@@ -1,5 +1,5 @@
 # Astar-Algorithm-in-Puzzle8
-It's a Integrated task in the Artificial Intelligence course.
+* It's a Integrated task in the Artificial Intelligence course.<br>
 A* (A-star) algorithm is one of the most effective direct search methods for solving shortest path in Static road network, and it is also a common heuristic algorithm for many other problems.
 
 ![Puzzle8 with A*Algorithm.png](https://github.com/zouhao0418/Astar-Algorithm-in-Puzzle8/blob/master/Puzzle8%20with%20A*Algorithm.png)
